@@ -4,7 +4,7 @@ This project is part of the FreeCodeCamp certification in the **"Back End Develo
 
 ## Description
 
-The **File Metadata Microservice** is a Node.js application that allows users to upload a file and receive metadata such as the file name, size, and MIME type.
+The **File Metadata Microservice** is a Express.js application that allows users to upload a file and receive metadata such as the file name, size, and MIME type.
 
 ## Features
 
